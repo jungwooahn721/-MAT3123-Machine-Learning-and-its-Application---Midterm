@@ -1,4 +1,4 @@
-# [MAT3123] Machine Learning and its Application - Midterm (LeetCode Assignment)
+# [MAT3123] Machine Learning and its Applications - Midterm (LeetCode Assignment)
 
 
 [LeetCode Profile (Link)](https://leetcode.com/u/jungwoo721/)
